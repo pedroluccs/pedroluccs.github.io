@@ -1,17 +1,16 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Portfolio Pedro Lucas
+description: Portfolio de projetos
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Pedro Lucas
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Front End Software Developer
+user_description: Sou desenvolvedor front-end com experiência em HTML, CSS (SASS e LESS) e JavaScript, incluindo TypeScript e frameworks como React. Sigo as melhores práticas de desenvolvimento, como a metodologia BEM e Styled Components, para criar aplicações escaláveis e eficientes. Além disso, utilizo ferramentas como Redux Toolkit para gerenciamento global de estado e otimização de performance.
+user_title: Front-End Software Developer
 email: pedro.wo13@gmail.com
-twitter_username: lorem_ipsum
 github_username:  pedroluccs
-gplus_username:  lorem_ipsum
+linkedin_username:  pedroluccs
 
 # Google-analytics
 google-analytics:
